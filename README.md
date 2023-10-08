@@ -1,7 +1,11 @@
 # fail2ban-at-a-glance
-Updated: 10/08/2023!
 
-Description: Quickly check all available fail2ban jail statuses and recently banned IPs. Useful little tool for those with a lot of fail2ban jails and who are tired of checking their status individually. **NEW**: Menu driven navigation, IP unblocker.
+**Updated: 10/08/2023!**
+**Whats new:** Menu driven navigation, shows user defined total of recent IP bans (previously defaulted to 20), now can show bans for a specific jail (ex: sshd), and now including an IP unblocker.
+
+
+Description: Quickly check all available fail2ban jail statuses and recently banned IPs. Useful little tool for those with a lot of fail2ban jails and who are tired of checking their status individually.
+
 
 ---
 
