@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Enhanced Fail2Ban status checker
 # Last update 10/18/2023 - Still more to do.
 
